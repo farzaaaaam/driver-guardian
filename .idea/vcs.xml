@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/drowsines_dwtwction_for_jetson_nano" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/emotion_detection_for_jetson" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/face_id_for_jetson_nano" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/object_detection_jetson_nano" vcs="Git" />
+  </component>
+</project>
